@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poznámky Kotlin</string>
+    <string name="description">Popis</string>
+    <string name="submit">Předložit</string>
+    <string name="title_activity_settings">Nastavení</string>
+
+    <string name="action_setting">Nastavení</string>
+    <string name="enter_description_error">Zadejte prosím popis</string>
+    <string name="enter_title_error">Zadejte prosím název</string>
+    <string name="title">Titul</string>
+
+    <string name="title_please_wait">Prosím, čekejte</string>
+    <string name="title_processing">zpracovává se...</string>
+    <string name="title_alert">Upozornění</string>
+    <string name="title_internet_problem">Neexistuje žádné nebo špatné připojení k internetu. Připojte prosím ke stabilnímu připojení k internetu a zkuste to znovu.</string>
+    <string name="exception_invalid_response">Momentálně nemůžeme žádost zpracovat. Prosím zkuste to znovu později.</string>
+    <string name="exception_time_out">Zdá se, že to trvá déle než obvykle. Prosím zkuste to znovu později.</string>
+    <string name="FETCHING_DETAILS_PROBLEM">Nelze načíst požadované údaje</string>
+    <string name="btn_edit">Upravit</string>
+    <string name="btn_delete">Vymazat</string>
+    <string name="btn_cancel">zrušení</string>
+    <string name="use_light_theme">Použijte Téma světla</string>
+    <string name="language">Jazyk</string>
+    <string name="change_language">Změnit jazyk</string>
+    <string name="change_to_czech">Změna jazyků v České republice</string>
+    <string name="visual">Visual</string>
+    <string name="btn_ok">Ok</string>
+</resources>
