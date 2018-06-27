@@ -24,6 +24,6 @@
     <string name="language">Jazyk</string>
     <string name="change_language">Změnit jazyk</string>
     <string name="change_to_czech">Změna jazyků v České republice</string>
-    <string name="visual">Visual</string>
+    <string name="visual">Vizuální</string>
     <string name="btn_ok">Ok</string>
 </resources>
